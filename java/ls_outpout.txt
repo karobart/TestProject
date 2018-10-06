@@ -1,0 +1,4 @@
+total 0
+0 -rw-r--r-- 1 Karolina 197121 0 paź  6 09:35 AnotherClass.java
+0 -rw-r--r-- 1 Karolina 197121 0 paź  6 10:03 App.java
+0 -rw-r--r-- 1 Karolina 197121 0 paź  6 10:08 ls_outpout.txt
